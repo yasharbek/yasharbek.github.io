@@ -3,4 +3,4 @@ description: liblab fellowship page
 
 remote_theme: pages-themes/cayman@v0.2.0 #theme
 plugins:
--jekyll-remote-theme #this plug in brings in the theme
+- jekyll-remote-theme #this plug in brings in the theme
